@@ -1,0 +1,31 @@
+Java II Test V2
+===============
+Take the time to read all the questions, then choose one question to develop.
+
+For any question, you may create a tester class to test your design. Consider using exceptions if needed.
+
+
+Question 5
+==========
+Write a family tree program. Create a class to represent a person (Person.java) and to store references to the 
+personâ€™s mother, father, and any children the person has. 
+
+Read a file of names to initialize the name and parentâ€“child relationships of each Person. (You might wish to 
+create a file representing your own family tree.) 
+
+Store the overall list of Persons as an ArrayList. Write an overall main user interface that asks for a name 
+and prints the maternal and paternal family line for that person.
+
+Hereâ€™s a hypothetical execution of the program, using as an input file the line of English Tudor monarchs:
+
+Person's name? Henry VIII
+Maternal line:
+Henry VIII
+Elizabeth of York
+Paternal line:
+Henry VIII
+Henry VII
+Children:
+Mary I
+Elizabeth I
+Edward VI
